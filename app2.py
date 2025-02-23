@@ -1,7 +1,13 @@
 from flask import Flask, render_template, request
 import spacy
+import os
 
-model_dir = "C:/Users/97252/PycharmProjects/AppTextReader/model"
+
+# Get the current directory (where app2.py is located)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# Construct the correct path for the model
+model_dir = os.path.join(BASE_DIR, "model")
 nlp = spacy.load(model_dir)
 
 
