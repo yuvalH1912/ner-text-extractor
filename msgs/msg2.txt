@@ -1,0 +1,15 @@
+Hi Samantha,
+
+My name is Rachel Levi, and I am contacting you regarding the Data Scientist position advertised on your company’s website.
+
+I have a Master’s degree in Applied Mathematics from Tel Aviv University, specializing in statistical models and algorithmic processes.
+Throughout my career, I have implemented predictive models and complex algorithms in high-stakes trading systems and analyzed large datasets to drive strategy at FinCorp Analytics.
+Previously, I also engaged in quantitative analysis and model development for various fintech startups.
+
+I am keen to discuss how my analytical skills and my experience with R and Python could help further the goals of your organization.
+I have attached my resume and would appreciate the opportunity to discuss this exciting opportunity with you.
+
+Hope to connect soon.
+
+Best wishes,
+Rachel Levi

@@ -1,0 +1,6 @@
+Hello Dr. Thompson,
+
+In my four years at HighMark Investments, I've developed strong expertise in financial trend analysis and portfolio management using Python, R, and financial modeling tools like QuantLib and pandas. I graduated with a Bachelor’s degree in Finance from New York University. My name is Zoe Patel, and I am interested in the Financial Analyst position at Quantum Investments. My skills in statistical analysis and predictive modeling are well-suited to your team's needs. Attached, please find my resume for your consideration.
+
+Best wishes,
+Zoe Patel

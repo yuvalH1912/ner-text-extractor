@@ -1,0 +1,8 @@
+Hello,
+
+In my role at RapidTech Solutions, I led the architectural design of software systems, applying .NET, Java, and Python, and worked extensively with cloud services like Microsoft Azure and Docker. I graduated with a Bachelor’s degree in Software Engineering from the University of California, Berkeley. My name is Ethan Smith, and I am interested in the Software Architect position at GlobalSoft Enterprises. My comprehensive technical expertise can help drive your software development initiatives forward. Please find my resume attached.
+
+Looking forward to your response.
+
+Kind regards,
+Ethan Smith

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Processor</title>
+</head>
+<body>
+    <h1>Text Details Extractor</h1>
+    <form action="/" method="post">
+        <label for="text">Enter Text:</label><br>
+        <textarea id="text" name="text" rows="4" cols="50"></textarea><br>
+        <input type="submit" value="Submit">
+    </form>
+    <h2>Input Text:</h2>
+    <p>{{ input_text }}</p>
+    <h2>Extracted Entities:</h2>
+    {% if entities %}
+        <ul>
+        {% for entity in entities %}
+            <li>{{ entity[0] }} - {{ entity[1] }}</li>
+        {% endfor %}
+        </ul>
+    {% else %}
+        <p>No entities found.</p>
+    {% endif %}
+</body>
+</html>

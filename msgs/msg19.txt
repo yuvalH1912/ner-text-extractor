@@ -1,0 +1,6 @@
+Greetings,
+
+At SmartTech Industries, I have designed and implemented machine learning models using Python, TensorFlow, and PyTorch, focusing on enhancing AI-driven applications. I received my PhD in Computer Science from MIT, specializing in artificial intelligence. My name is Leo Zhang, and I am enthusiastic about the Machine Learning Engineer position at AI Dynamics. My ability to develop advanced AI solutions can contribute significantly to your innovative projects. Attached is my CV for your review.
+
+Best regards,
+Leo Zhang

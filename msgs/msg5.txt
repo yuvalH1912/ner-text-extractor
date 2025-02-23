@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+My name is Thomas Muller, and I am applying for the Network Security Analyst position at CyberTech Inc.
+
+I possess a Bachelor of Science in Cybersecurity from the University of Maryland, with a focus on network threat analysis and mitigation strategies.
+Over the past three years, I have gained substantial experience working with cross-functional teams to enhance security frameworks at SecureGate Innovations.
+My technical expertise includes advanced knowledge of firewall configurations, intrusion detection systems, and encryption technologies.
+
+I am excited about the opportunity to contribute to CyberTech Inc’s cutting-edge security projects. Please find my resume attached for more detailed information.
+
+Thank you for considering my application.
+
+Best regards,
+Thomas Muller
